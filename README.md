@@ -53,7 +53,7 @@ pip install numpy scikit-learn
 1. Clone the repository:
    ```sh
    git clone https://github.com/GuniDH/Restricted-Boltzmann-Machine-Semi-Supervised-Classifier.git
-   cd RBM-classifier
+   cd Restricted-Boltzmann-Machine-Semi-Supervised-Classifier
    ```
 2. Run the script:
    ```sh
