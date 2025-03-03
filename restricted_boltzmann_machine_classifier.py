@@ -2,8 +2,8 @@ import numpy as np
 from sklearn.datasets import load_iris
 
 
-# Guni Deyo Haness 215615519
-# Question 3 for maman 13 computational biology
+# Guni Deyo Haness 
+# RBM Semi-Supervised Classifier
 
 
 class RBM:
